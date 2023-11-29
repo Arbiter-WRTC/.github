@@ -1,4 +1,4 @@
-![arbiter_banner](https://github.com/Arbiter-WRTC/.github/assets/57457673/ac99002d-bea7-4a1b-82ba-a8408ff50a29)
+![arbiter_banner](https://github.com/Arbiter-WRTC/.github/assets/57457673/0d982214-5644-4a5b-adb7-e9de87332ae5)
 
 <!--
 
