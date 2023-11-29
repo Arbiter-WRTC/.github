@@ -1,12 +1,16 @@
 ![arbiter_banner](https://github.com/Arbiter-WRTC/.github/assets/57457673/0d982214-5644-4a5b-adb7-e9de87332ae5)
 
-<!--
+## Overview
 
-**Here are some ideas to get you started:**
+> _Arbiter is your open-source framework for drop in video conferencing_
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Arbiter is a cloud-native framework designed specifically for integrating video conferencing within existing web applications and can be deployed to Amazon Web Services (AWS) with a single command. Arbiter is tailored for development teams that need a straightforward solution to support real-time video communication for multiple users across numerous rooms. 
+
+
+## The Team
+
+**<a href="https://github.com/watzmonium" target="_blank">Stephen Watzman</a>** _Software Engineer_ • Detroit, MI
+
+**<a href="https://github.com/frye-t" target="_blank">Tyler Frye</a>** _Software Engineer_ • Tampa Bay, FL
+
+**<a href="https://github.com/jayjayabose" target="_blank">Jay Jayabose</a>** _Software Engineer_ • New York, NY
