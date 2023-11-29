@@ -1,5 +1,4 @@
-![square light arbiter](https://github.com/Arbiter-WRTC/.github/assets/57457673/303d3ff0-abe9-4aba-8c6d-1d2574688384)
-## Arbiter
+![arbiter_banner](https://github.com/Arbiter-WRTC/.github/assets/57457673/ac99002d-bea7-4a1b-82ba-a8408ff50a29)
 
 <!--
 
