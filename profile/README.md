@@ -6,6 +6,11 @@
 
 Arbiter is a cloud-native framework designed specifically for integrating video conferencing within existing web applications and can be deployed to Amazon Web Services (AWS) with a single command. Arbiter is tailored for development teams that need a straightforward solution to support real-time video communication for multiple users across numerous rooms. 
 
+Read our [case study here](https://arbiter-framework.com/case-study)
+
+## API
+
+Please refer to [the documentation](https://arbiter-framework.com/docs/API) on Arbiter's website.
 
 ## The Team
 
